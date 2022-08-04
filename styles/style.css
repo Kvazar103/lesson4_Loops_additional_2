@@ -1,0 +1,13 @@
+
+.two_blocks{
+    display: inline-grid;
+
+    border: 2px solid black;
+    margin: 5px;
+}
+body{
+    /*border: 2px solid black;*/
+    width: 900px;
+    padding-left: 300px;
+    padding-right: 200px;
+}
